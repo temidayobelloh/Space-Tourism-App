@@ -1,0 +1,123 @@
+body{
+    background-image: url('../assets/Background 2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 1440px;
+    color: white;
+    width: 1440px;
+}
+.destination-wrapper{
+    display: flex;
+    align-items: center !important;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 117px;
+}
+.destination-container{
+    margin: 0;
+    padding: 0;
+    margin-right: 61.5px;
+}
+.destination-header{
+    display: flex;
+    margin-top: 48px;
+    margin-left: 165px;
+    font-size: 28px;
+    font-family: "Barlow Condensed";
+}
+.strong-number{
+    color: grey;
+    font-size: 28px;
+}
+.nav-link{
+    margin: 0 auto;
+    padding: 0;
+    width: 445px;
+    height: 32px;
+    list-style: none;
+    margin-right: 0;
+    text-align: left !important;
+    font-size: 16px;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    
+
+}
+ul li a{
+    text-align: left;
+    color: white;
+    font-family: "Barlow Condensed";
+    font-size: 19px;
+    margin-left: 0;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+ ul li a:hover{
+    cursor: pointer;
+    color: whitesmoke;
+    border-bottom: 2px solid white;
+ }
+
+ul li:last-child{
+    margin-right: 0;
+    }
+.moon_image{
+    width: 480px;
+    height: 480px;
+    margin-top: 151px;
+    margin-left: 85px;
+    margin-right: 0;
+    padding: 0;
+    margin-bottom: 0px !important;
+    }
+.destination-container-two{
+    color: white;
+    height: 468px;
+    margin-top:132px;
+    margin-bottom: 0;
+    margin-right: 165px;
+    margin-left: 32px;
+    padding: 0;
+}
+.moon-title{
+    width: 445px;
+    height: 110px;
+    margin-top: 0;
+    font-size: 96px;
+    font-family: "Bellefair", serif;
+    margin-top: 40px;
+
+}
+.moon-details{
+    width:445px;
+    height: 128px;
+    margin-top: 16px;
+    font-size: 18px;
+    font-family: "Barlow";
+    color: #D0D6F9;
+}
+hr{
+    width: 445px;
+    height: 1px;
+}
+.moon-footer-container{
+    max-width: 445px;
+    height: 61px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+.footer-details{
+    color: #D0D6F9;
+    font-size: 14px;
+    font-family: "Barlow Condensed";
+
+}
+.footer-numbers{
+    margin-top: 12px;
+    color: white;
+    font-size: 28px;
+    font-family: "Bellefair", serif;
+}

@@ -1,0 +1,51 @@
+.crew-two-header{
+    margin-top: 48px;
+    font-size:28px;
+    font-family: "Barlow Condensed";
+    margin-left: 165px;
+    padding: 0;
+    height: 34px;
+    width:273px;
+}
+.crew-two-wrap{
+    padding: 0;
+    width: 1110px;
+    height:734px;
+    margin: 165px auto;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+}
+
+.crew-two-title{
+    width: 539px;
+    height: 37px;
+    color: #D0D6F9;
+    font-size: 32px;
+    font-family: "Bellefair";
+}
+.crew-two-name{
+    width: 539px;
+    height:37px;
+    color:white;
+    font-family: "Bellefair";
+    font-size: 56px;
+    margin-top: 16px;
+    margin-bottom: 54px;
+}
+.crew-bio-two{
+    width:539px;
+    height: 96px;
+    color: #D0D6F9;
+    font-family: "Barlow";
+    font-size: 18px;
+    padding: 0;
+}
+.crew-two-image{
+    width: 501.33px;
+    height: 723px;
+}
+.crew-three-image{
+    width: 539px;
+    height: 662px;
+}
